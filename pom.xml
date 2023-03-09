@@ -44,7 +44,7 @@
 <repository>
 <id>package</id>
 <url>
-http://54.164.92.25:8081/repository/package/
+http://54.164.92.26:8081/repository/package/
 </url>
 </repository>
 <snapshotRepository>	
